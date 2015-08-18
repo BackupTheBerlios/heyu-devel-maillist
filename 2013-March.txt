@@ -1,0 +1,31 @@
+From admin at berlios.de  Tue Mar 26 20:26:01 2013
+From: admin at berlios.de (admin at berlios.de)
+Date: Tue, 26 Mar 2013 19:26:01 GMT
+Subject: [Heyu-devel] [Patch #3423] Patch to support RFxTRX transceiver for
+	heyu 2.10
+Message-ID: <201303261926.r2QJQ1cn015104@www.berlios.de>
+
+Patch #3423 has been updated. 
+
+Project: heyu
+Category: None
+Status: Open
+Submitted by: daveschaap
+Assigned to : none
+Summary: Patch to support RFxTRX transceiver for heyu 2.10
+
+Follow-Ups:
+
+Date: 2013-Mar-26 19:26
+By: daveschaap
+
+Comment:
+Signed-off-by: Dave Schaap
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/patch/?func=detailpatch&patch_id=3423&group_id=12881
+
